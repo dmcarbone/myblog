@@ -8,3 +8,5 @@ Hello world!
 
 This is Part 2 of LearnTechCafe's 
 Create-a-Blog-Tutorial.
+
+Let's test our first commit to GitHub to see if it syncs.
